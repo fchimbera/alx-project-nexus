@@ -52,6 +52,6 @@ The **ProDev Backend Engineering** program is an intensive, hands-on journey int
 ## 📌 Repository Info
 
 - **Name**: `alx-project-nexus`
-- **Poject**: 'Job Board Platform'
+- **Poject**: `Job Board Platform`
 
 ---
